@@ -36,7 +36,10 @@ Testes Automatizados
 - Segurança ao mexer no código
 - Favorece a melhoria no código (Refactoring)
 
-
+Aprendido na Aula:
+- O que são testes Automatizados
+- A importância de se escrever testes automatizados em uma aplicação
+- Como escrever um teste automatizado utilizando uma classe Java com o método *main*
 
 
 
