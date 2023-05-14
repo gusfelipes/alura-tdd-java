@@ -86,14 +86,22 @@ R: Na implementação de funcionalidades complexas, cuja estrutura não está cl
 Já quando for códigos mais simples, sem problemas de *design* não é interessante utilizar TDD.
 
 Aprendido na Aula
-- O que é o TDD;
-- Como escrever uma funcionalidade via TDD;
-- Como realizar uma refatoração no código;
-- As vantagens de escrever os testes antes da implementação.
+- O que é o TDD
+- Como escrever uma funcionalidade via TDD
+- Como realizar uma refatoração no código
+- As vantagens de escrever os testes antes da implementação
 
 
 ## LIdando com Exceptions
 
 Aprendido na Aula
-- Como testar métodos que podem lançar exceptions;
-- As abordagens para testar um método que lança uma exception.
+- Como testar métodos que podem lançar exceptions
+- As abordagens para testar um método que lança uma exception
+
+## Mais Recursos
+
+Aprendido na Aula
+- Como organizar o código de uma classe de teste
+- A utilizar as anotacoes @BeforeEach, @AfterEach, @BeforeAll e AfterAll do JUnit
+- Que não se deve testar métodos privados
+- Avaliar quais classes devem ser testadas em uma aplicação
