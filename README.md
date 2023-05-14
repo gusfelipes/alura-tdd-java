@@ -50,7 +50,15 @@ Aprendido na Aula:
 - Criada em 1995 por Kent Beck e Erich Gamma
 - Gratuito e open source [Junit5](https://github.com/junit-team/junit5)
 - Foco em testes de unidade (testes unitários)
-- 
+
+Aprendido na Aula:
+- A história do JUnit
+- Como adicionar o JUnit ao projeto (via local ou maven)
+- Como escrever um teste automatizado com JUnit
+- Como executar os testes com JUnit e analisar o resultado da execução
+
+
+## TDD: Test-Driven Development
 
 
 
