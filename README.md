@@ -68,6 +68,25 @@ Regra de Negócio para o exemplo de TDD
 > - Se o desempenho for "Bom,", o reajuste será de 15% do salário.
 > - Se o desempenho for "Ótimo", o reajuste será de 20% do salário.
 
+Quando usar TDD?
 
+Vantagens
+- Código já sai "testado"
+- Evita testes "viciados" na implementação
+- Refatoração faz parte do processo
+- Ajuda a manter o foco
+- Temos uma "tendência" em escrever um código mais simples
 
+Desvantagens
+- Eu vou escrever meu teste automatizado
 
+Quando Utilizar?
+
+R: Na implementação de funcionalidades complexas, cuja estrutura não está clara ainda e com o TDD funciona como um rascunho.
+Já quando for códigos mais simples, sem problemas de *design* não é interessante utilizar TDD.
+
+Aprendido na Aula
+- O que é o TDD;
+- Como escrever uma funcionalidade via TDD;
+- Como realizar uma refatoração no código;
+- As vantagens de escrever os testes antes da implementação.
