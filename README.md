@@ -90,3 +90,10 @@ Aprendido na Aula
 - Como escrever uma funcionalidade via TDD;
 - Como realizar uma refatoração no código;
 - As vantagens de escrever os testes antes da implementação.
+
+
+## LIdando com Exceptions
+
+Aprendido na Aula
+- Como testar métodos que podem lançar exceptions;
+- As abordagens para testar um método que lança uma exception.
