@@ -24,3 +24,19 @@ Próximos estudos
 - Testes de performance
 - Testes de mutação
 - BDD
+
+Testes Manuais
+- Chatos
+- Lentos
+- Sujeito a falhas (fator humano)
+
+Testes Automatizados
+- Automatização
+- Feedback mais rápido
+- Segurança ao mexer no código
+- Favorece a melhoria no código (Refactoring)
+
+
+
+
+
