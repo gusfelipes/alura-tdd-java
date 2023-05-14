@@ -60,6 +60,13 @@ Aprendido na Aula:
 
 ## TDD: Test-Driven Development
 
+- A abordagem mais comum é "Código antes, testes depois"
+- TDD Testes->Implementacao->Refatoração
+
+Regra de Negócio para o exemplo de TDD
+> - Se o desempenho for classificado como "A desejar", o reajuste será de 3% do salário atual.
+> - Se o desempenho for "Bom,", o reajuste será de 15% do salário.
+> - Se o desempenho for "Ótimo", o reajuste será de 20% do salário.
 
 
 
