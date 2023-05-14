@@ -25,12 +25,15 @@ Próximos estudos
 - Testes de mutação
 - BDD
 
+## Testes Automatizados
 Testes Manuais
+
 - Chatos
 - Lentos
 - Sujeito a falhas (fator humano)
 
 Testes Automatizados
+
 - Automatização
 - Feedback mais rápido
 - Segurança ao mexer no código
@@ -40,6 +43,16 @@ Aprendido na Aula:
 - O que são testes Automatizados
 - A importância de se escrever testes automatizados em uma aplicação
 - Como escrever um teste automatizado utilizando uma classe Java com o método *main*
+
+## JUnit
+
+- Biblioteca padrão por ser amplamente utilizada para a escrita de testes automatizados no Java
+- Criada em 1995 por Kent Beck e Erich Gamma
+- Gratuito e open source [Junit5](https://github.com/junit-team/junit5)
+- Foco em testes de unidade (testes unitários)
+- 
+
+
 
 
 
